@@ -6,9 +6,9 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Veri Yapıları ve Algoritmalar eğitimi i�
 
 | PROJELER |
 |-----|
-| [PROJE 1](https://github.com/Ramedeus/Java_101_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-prati%CC%87k-1--not-ortalamas%C4%B1) - Insertion Sort |
-| [PROJE 2](https://github.com/Ramedeus/Java_101_Kodluyoruz_Patika.dev#open_book-prati%CC%87k-2--kdv-hesaplama) - Merge Sort|
-| [PROJE 3](https://github.com/Ramedeus/Java_101_Kodluyoruz_Patika.dev#open_book-prati%CC%87k-3--hipoten%C3%BCs-bulma) - Binary Search Tree|
+| [PROJE 1](https://github.com/Ramedeus/Veri_Yapilari_ve_Algoritmalar_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-prorje-1--insertion-sort) - Insertion Sort |
+| [PROJE 2](https://github.com/Ramedeus/Veri_Yapilari_ve_Algoritmalar_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-prorje-2--merge-sort) - Merge Sort|
+| [PROJE 3](https://github.com/Ramedeus/Veri_Yapilari_ve_Algoritmalar_Kodluyoruz_Patika.dev/blob/main/README.md#open_book-prorje-3--binary-search-tree) - Binary Search Tree|
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
