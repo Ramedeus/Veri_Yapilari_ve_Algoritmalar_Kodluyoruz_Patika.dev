@@ -12,7 +12,7 @@ Bu repo [Kodluyoruz](Kodluyoruz.org) Veri Yapıları ve Algoritmalar eğitimi i�
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-## :open_book: PRORJE 1	- Insertion Sort
+## :open_book: PROJE 1	- Insertion Sort
 
 ### SORU :question:
 **[22,27,16,2,18,6]** -> Insertion Sort
@@ -63,7 +63,7 @@ n4. [2,6,16,18,22,27]
 
 
 
-## :open_book: PRORJE 2	- Merge Sort
+## :open_book: PROJE 2	- Merge Sort
 
 ### SORU :question:
 **[16,21,11,8,12,22]** -> Merge Sort
@@ -104,7 +104,7 @@ O(nlogn)
 
 
 
-## :open_book: PRORJE 3	- Binary Search Tree
+## :open_book: PROJE 3	- Binary Search Tree
 
 ### SORU :question:
 **[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]** dizisinin Binary-Search-Tree aşamalarını yazınız.
